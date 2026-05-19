@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hola, soy Oscar Quintero
 
-<!--
-**OscarQuintero1997/OscarQuintero1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Frontend enfocado en Angular y TypeScript  
+🧪 QA Tester con conocimientos en automatización de pruebas  
+🚀 Apasionado por la creación de interfaces modernas, escalables y centradas en la experiencia del usuario.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Angular Material
+
+### Backend & APIs
+- Node.js
+- REST APIs
+
+### QA & Testing
+- Playwright
+- Pruebas funcionales
+- Validación de software
+- Automatización básica
+
+### Herramientas
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Sobre mí
+
+Soy Tecnólogo en Análisis y Desarrollo de Software con experiencia en desarrollo frontend y QA. He trabajado en la construcción de interfaces web modernas y responsivas utilizando Angular, aplicando buenas prácticas de desarrollo, componentización y separación de responsabilidades.
+
+También cuento con experiencia en pruebas funcionales y validaciones orientadas a garantizar la estabilidad y calidad de las aplicaciones.
+
+Actualmente continúo fortaleciendo mis conocimientos en Angular, automatización y desarrollo de software.
+
+---
+
+## 📂 Proyectos Destacados
+
+🔹 Aplicaciones Angular  
+🔹 Interfaces responsivas  
+🔹 Integración de APIs REST  
+🔹 Automatización de pruebas con Playwright  
+🔹 Componentes reutilizables y escalables
+
+---
+
+## 📫 Contacto
+
+📧 Email: devoscar1997@gmail.com  
+💼 LinkedIn: AQUÍ_TU_LINKEDIN  
+🌎 Ubicación: Pereira, Colombia
+
+---
+
+⭐ Gracias por visitar mi perfil
