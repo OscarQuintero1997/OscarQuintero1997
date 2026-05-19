@@ -58,7 +58,6 @@ Actualmente continúo fortaleciendo mis conocimientos en Angular, automatizació
 ## 📫 Contacto
 
 📧 Email: devoscar1997@gmail.com  
-💼 LinkedIn: AQUÍ_TU_LINKEDIN  
 🌎 Ubicación: Pereira, Colombia
 
 ---
