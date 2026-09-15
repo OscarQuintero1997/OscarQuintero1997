@@ -20,7 +20,6 @@
 
 ### Backend & APIs
 - Node.js
-- REST APIs
 
 ### QA & Testing
 - Playwright
