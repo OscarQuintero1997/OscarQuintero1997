@@ -1,7 +1,15 @@
 # 👋 Hola, soy Oscar Quintero
-### 💻 Desarrollador Frontend | 🧪 QA Tester
+### 💻 Desarrollador Frontend | 🧪 QA Tester | 🎓 Estudiante de Ingeniería de Sistemas
 
-Apasionado por la creación de interfaces web modernas, escalables y centradas en la experiencia del usuario, con un enfoque sólido en la calidad de software y automatización.
+Tecnólogo en Análisis y Desarrollo de Software y estudiante activo de Ingeniería de Sistemas. Me apasiona la creación de interfaces web modernas, reactivas y accesibles, complementando el desarrollo con buenas prácticas de testing para garantizar un software de alta calidad.
+
+---
+
+### 🎓 Formación & Perfil
+* 📜 **Tecnólogo:** Análisis y Desarrollo de Software (ADSO).
+* 📐 **Ingeniería:** Estudiante de Ingeniería de Sistemas (enfoque en arquitectura de software, bases de datos y algoritmos).
+* 💻 **Especialidad:** Desarrollo Frontend con **Angular**.
+* 🧪 **Calidad:** Pruebas funcionales, automatización end-to-end con **Playwright** y validación de APIs con **Postman**.
 
 ---
 
@@ -14,41 +22,30 @@ Apasionado por la creación de interfaces web modernas, escalables y centradas e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Pruebas**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+**Testing & Backend**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Herramientas**
+**Herramientas & Entorno**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📌 Sobre mí
+### 🚀 Proyectos Destacados
 
-* 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software.
-* 💻 **Especialidad:** Desarrollo frontend con **Angular**, enfocado en componentización, buenas prácticas y diseño responsivo.
-* 🧪 **Aseguramiento de Calidad:** Experiencia en pruebas funcionales, validación de software y automatización básica con **Playwright**.
-* 🚀 **Actualmente:** Profundizando en arquitecturas avanzadas de Angular y automatización de pruebas end-to-end.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarQuintero1997&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarQuintero1997&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
-</p>
+> *Espacio para agregar tus proyectos principales con sus enlaces:*
+* 📦 **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto-1)** — Aplicación web desarrollada con Angular para [breve descripción].
+* 🧪 **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto-2)** — Suite de pruebas automatizadas con Playwright para [breve descripción].
 
 ---
 
-### 📬 Contacto & Redes
+### 📬 Contacto
 
 [![Email](https://img.shields.io/badge/Email-devoscar1997%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devoscar1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-📍 **Ubicación:** Pereira, Colombia
+📍 Pereira, Colombia
